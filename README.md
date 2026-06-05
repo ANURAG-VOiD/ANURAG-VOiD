@@ -1,5 +1,5 @@
 ```txt
-anurag@void:~$
+anurag_void:~$
 
 Rust • Solana • Systems
 
