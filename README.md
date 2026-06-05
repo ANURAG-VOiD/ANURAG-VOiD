@@ -1,33 +1,84 @@
-```text
-BOOTING ANURAG.MISHRA
+# BOOTING ANURAG.MISHRA
 
+```text
 [OK] Reality loaded.
 [OK] Compiler initialized.
 [OK] Entering the void...
 [WARN] Drowned in the void of syntax.
+```
 
-Status:
-    Engineering over aesthetics.
-    Infrastructure over hype.
-    Systems over shortcuts.
+### ⏱ LOCATION:
 
-Current Focus:
-    → Rust
-    → Solana
-    → Distributed Systems
-    → Blockchain Infrastructure
-    → Backend Engineering
+Somewhere between a compiler error  
+and a working distributed system.
 
-Building:
-    SOLANCE
+---
 
-Studying:
-    Solana Alpenglow Consensus
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Philosophy:
-    "Control what you can.
-     Ignore what you can't.
-     Build anyway."
+### 🎯 STATUS:
 
-SYSTEM UPTIME: 4 YEARS AND COUNTING...
+Engineering over aesthetics.
+
+Infrastructure over hype.
+
+Systems over shortcuts.
+
+<br>
+
+### 🧭 CURRENT FOCUS:
+
+→ Rust
+
+→ Solana
+
+→ Distributed Systems
+
+→ Blockchain Infrastructure
+
+→ Backend Engineering
+
+<br>
+
+### 🧠 CURRENT OBSESSION:
+
+→ Making complex systems  
+&nbsp;&nbsp;&nbsp;&nbsp;feel simple.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⌨️ BUILDING:
+
+→ **SOLANCE**  
+&nbsp;&nbsp;&nbsp;&nbsp;Wallet-native collaboration  
+&nbsp;&nbsp;&nbsp;&nbsp;infrastructure.
+
+<br>
+
+### 📖 RESEARCHING:
+
+→ Solana Alpenglow Consensus
+
+<br>
+
+### ❝ PHILOSOPHY:
+
+> Control what you can.
+>
+> Ignore what you can't.
+>
+> Build anyway.
+
+</td>
+</tr>
+</table>
+
+---
+
+```text
+> SYSTEM UPTIME: 4 YEARS AND COUNTING...
 ```
