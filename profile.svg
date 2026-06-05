@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="620" viewBox="0 0 850 620">
+  <foreignObject width="850" height="620">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        .profile {
+          font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+          color: #c9d1d9;
+          font-size: 14px;
+          line-height: 1.6;
+          width: 850px;
+        }
+        .title {
+          font-size: 1.4em;
+          font-weight: 700;
+          color: #ffffff;
+          margin-bottom: 12px;
+        }
+        .boot { margin-bottom: 20px; }
+        .ok { color: #3fb950; }
+        .warn { color: #d29922; }
+        .location {
+          display: flex;
+          align-items: flex-start;
+          gap: 4px;
+          margin-bottom: 16px;
+        }
+        .location svg { flex-shrink: 0; margin-top: 2px; }
+        .label { color: #58a6ff; font-weight: 700; }
+        .divider {
+          border: none;
+          border-top: 1px solid #30363d;
+          margin: 0 0 20px 0;
+        }
+        .columns {
+          display: flex;
+          gap: 0;
+        }
+        .col-left {
+          flex: 1;
+          border-right: 1px solid #30363d;
+          padding-right: 24px;
+        }
+        .col-right {
+          flex: 1;
+          padding-left: 24px;
+        }
+        .section { margin-bottom: 20px; }
+        .section:last-child { margin-bottom: 0; }
+        .section-head {
+          display: flex;
+          align-items: center;
+          gap: 4px;
+          margin-bottom: 8px;
+        }
+        .section-head svg { flex-shrink: 0; }
+        .divider-inner {
+          border: none;
+          border-top: 1px solid #30363d;
+          margin: 0 0 16px 0;
+        }
+        .divider-dashed {
+          border: none;
+          border-top: 1px dashed #30363d;
+          margin: 24px 0 16px 0;
+        }
+        .footer { color: #3fb950; }
+        .subtext { padding-left: 1.2em; }
+      </style>
+
+      <div class="profile">
+        <div class="title">BOOTING ANURAG.MISHRA</div>
+
+        <div class="boot">
+          <div><span class="ok">[OK]</span> Reality loaded.</div>
+          <div><span class="ok">[OK]</span> Compiler initialized.</div>
+          <div><span class="ok">[OK]</span> Entering the void...</div>
+          <div><span class="warn">[WARN]</span> Drowned in the void of syntax.</div>
+        </div>
+
+        <div class="location">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+          <div><span class="label">LOCATION:</span> Somewhere between a compiler error and a working distributed system.</div>
+        </div>
+
+        <hr class="divider"/>
+
+        <div class="columns">
+          <div class="col-left">
+            <div class="section">
+              <div class="section-head">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
+                <span class="label">STATUS:</span>
+              </div>
+              <div>Engineering over aesthetics.</div>
+              <div>Infrastructure over hype.</div>
+              <div>Systems over shortcuts.</div>
+            </div>
+
+            <div class="section">
+              <div class="section-head">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/><line x1="12" y1="2" x2="12" y2="6"/><line x1="12" y1="18" x2="12" y2="22"/><line x1="2" y1="12" x2="6" y2="12"/><line x1="18" y1="12" x2="22" y2="12"/></svg>
+                <span class="label">CURRENT FOCUS:</span>
+              </div>
+              <div>-&gt; Rust</div>
+              <div>-&gt; Solana</div>
+              <div>-&gt; Distributed Systems</div>
+              <div>-&gt; Blockchain Infrastructure</div>
+              <div>-&gt; Backend Engineering</div>
+            </div>
+
+            <div class="section">
+              <div class="section-head">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"/><path d="M12 5a3 3 0 1 1 5.997.125 4 4 0 0 1 2.526 5.77 4 4 0 0 1-.556 6.588A4 4 0 1 1 12 18Z"/><path d="M15 13a4.5 4.5 0 0 1-3-4 4.5 4.5 0 0 1-3 4"/><path d="M17.599 6.5a3 3 0 0 0 .399-1.375"/><path d="M6.003 5.125A3 3 0 0 0 6.401 6.5"/><path d="M3.477 10.896a4 4 0 0 1 .585-.396"/><path d="M19.938 10.5a4 4 0 0 1 .585.396"/><path d="M6 18a4 4 0 0 1-1.967-.516"/><path d="M19.967 17.484A4 4 0 0 1 18 18"/></svg>
+                <span class="label">CURRENT OBSESSION:</span>
+              </div>
+              <div>-&gt; Making complex systems feel simple.</div>
+            </div>
+          </div>
+
+          <div class="col-right">
+            <div class="section">
+              <div class="section-head">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+                <span class="label">BUILDING:</span>
+              </div>
+              <div>-&gt; SOLANCE</div>
+              <div class="subtext">Wallet-native collaboration infrastructure.</div>
+            </div>
+
+            <div class="section">
+              <div class="section-head">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+                <span class="label">RESEARCHING:</span>
+              </div>
+              <div>-&gt; Solana Alpenglow Consensus</div>
+            </div>
+
+            <hr class="divider-inner"/>
+
+            <div class="section">
+              <div class="section-head">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V21z"/><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"/></svg>
+                <span class="label">PHILOSOPHY:</span>
+              </div>
+              <div>"Control what you can.</div>
+              <div>Ignore what you can't.</div>
+              <div>Build anyway."</div>
+            </div>
+          </div>
+        </div>
+
+        <hr class="divider-dashed"/>
+
+        <div class="footer">&gt; SYSTEM UPTIME: 4 YEARS AND COUNTING...</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
