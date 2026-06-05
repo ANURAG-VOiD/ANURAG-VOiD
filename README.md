@@ -1,102 +1,85 @@
-# Anurag Mishra
+# root@anurag:~$
 
 ```txt
-anurag@github:~$ whoami
+boot sequence initiated...
 
-Software Engineer
-Rust Enthusiast
-Solana Builder
-Systems Programming Student
+NAME        : Anurag Mishra
+ROLE        : Software Engineer
+LOCATION    : India
+FOCUS       : Rust • Solana • Distributed Systems
+PROJECT     : Solance
 
-Current Status: Building Solance
+STATUS      : BUILDING
 ```
-
-Building software where systems engineering, blockchain infrastructure, and product development intersect.
-
-Currently focused on Rust, distributed systems, protocol design, and the Solana ecosystem.
-
-I enjoy understanding how things work beneath the abstraction layers—whether that's ownership and memory safety in Rust, distributed architectures, or blockchain protocols.
-
----
-
-## Current Mission
-
-### Solance
-
-Wallet-native freelancer collaboration platform built on Solana.
-
-The goal is simple:
-
-```txt
-Identity     → Wallet
-Reputation   → On-chain
-Payments     → Instant
-Collaboration→ Borderless
-```
-
-Building tools that reduce platform dependency and give ownership back to users.
-
----
-
-## Engineering Interests
-
-```rust
-struct Builder {
-    languages: Vec<&'static str>,
-    interests: Vec<&'static str>,
-    mission: &'static str,
-}
-
-let anurag = Builder {
-    languages: vec![
-        "Rust",
-        "TypeScript",
-        "SQL"
-    ],
-
-    interests: vec![
-        "Systems Programming",
-        "Blockchain Infrastructure",
-        "Distributed Systems",
-        "Backend Engineering",
-        "Protocol Design"
-    ],
-
-    mission: "Build products that solve real problems."
-};
-```
-
----
-
-## Currently Learning
-
-* Advanced Rust
-* Solana Program Development
-* Distributed Systems
-* System Design
-* Data Structures & Algorithms
-
----
-
-## Philosophy
-
-```txt
-Learn deeply.
-Build consistently.
-Ship relentlessly.
-```
-
-I believe projects teach faster than courses,
-shipping teaches faster than planning,
-and consistency beats intensity.
-
----
 
 ```bash
-while (alive) {
-    learn();
-    build();
-    improve();
-    repeat();
+$ whoami
+
+A builder obsessed with understanding systems
+from the memory layer to distributed networks.
+```
+
+```bash
+$ current_objective
+
+Build software that is useful,
+robust, and difficult to replace.
+```
+
+```bash
+$ active_project
+
+Solance
+
+Wallet-native freelancer collaboration
+on Solana.
+
+Identity     -> Wallet
+Payments     -> On-chain
+Reputation   -> Portable
+```
+
+```bash
+$ interests
+
+Rust
+Systems Programming
+Blockchain Infrastructure
+Protocol Design
+Backend Engineering
+Distributed Systems
+```
+
+```bash
+$ learning
+
+Advanced Rust
+Solana Programs
+System Design
+Distributed Systems
+```
+
+```rust
+fn philosophy() {
+    loop {
+        learn();
+        build();
+        ship();
+        improve();
+    }
 }
+```
+
+```txt
+No tutorials.
+No clone projects.
+
+Just building.
+```
+
+```bash
+$ uptime
+
+Learning since 2023.
+Still compiling...
 ```
